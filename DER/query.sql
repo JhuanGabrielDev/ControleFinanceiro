@@ -1,0 +1,1 @@
+DROP DATABASE db_financeiro_ead;
